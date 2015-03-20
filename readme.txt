@@ -19,7 +19,8 @@ Plugin allows site visitors to send reports to the webmaster/owner about any spe
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Wordpress-Spelling-Notifications)
 * The plugin allows site visitors to send reports to the webmaster / website owner about any spelling or grammatical errors which may be found by readers
 * Visitors should select text with a mouse, press Ctrl+Enter, enter comments and the webmaster will be notified about any such errors
-* Nice and simple plugin - no external websites needed and fully customizable; change the plugin language !
+* Nice and simple plugin - no external websites needed and fully customizable
+* Use notifications on your own language
 * It is easy to integrate with any website!
 
 Screenshots and Demo: [https://gourl.io/php-spelling-notifications.html](https://gourl.io/php-spelling-notifications.html)
